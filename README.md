@@ -1,0 +1,2 @@
+# Intro-Tensorflow-for-AI-ML-DL
+Esta nueva especialización de deeplearning.ai TensorFlow te enseña cómo usar TensorFlow para implementar esos principios, de modo que puedas comenzar a crear y aplicar modelos escalables a problemas del mundo real. Para desarrollar una comprensión más profunda de cómo funcionan las redes neuronales, le recomendamos que realice la especialización en aprendizaje profundo.
